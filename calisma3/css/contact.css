@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* sağında ve solunda ki şeyleri temizler aşağı yazar */
+.clear{
+    clear: both;
+}
+
+.box{
+    
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-right: 10px;
+    float: left;
+    
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-yellow{
+    background-color: green;
+}
